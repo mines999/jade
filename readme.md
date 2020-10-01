@@ -1,4 +1,4 @@
-# jade-lang.com
+# jade-lang.com The Best Project
 
 This is the source for www.jade-lang.com
 
